@@ -1,0 +1,575 @@
+Gender Age Race "id number " Psygroup Agegroup
+Male 24 white 4885512 Non-mentalstress "Young Adult"
+Male 21 white 4558979 Non-mentalstress "Young Adult"
+Male 71 white 4644779 Non-mentalstress Old
+Female 89 white 4303178 Non-mentalstress Old
+Female 72 white 4774154 Non-mentalstress Old
+Male 21 white 4626728 Non-mentalstress "Young Adult"
+Male 47 white 4630459 Non-mentalstress "Middle age"
+Female 71 white 4451100 Non-mentalstress Old
+Female 49 white 4064949 Mentaldisorder "Middle age"
+Male 55 white 4623177 N/A "Middle age"
+Male 29 white 4505231 Non-mentalstress Adulthood
+Male 59 white 4082669 Non-mentalstress "Middle age"
+Female 47 white 4520041 Mentaldisorder "Middle age"
+Female 87 white 4416127 Non-mentalstress Old
+Male 25 white 4977649 Non-mentalstress Old
+Female 53 white 4452142 Mentaldisorder "Middle age"
+Male 32 white 4112592 Mentaldisorder Adulthood
+Male 32 white 4868332 Non-mentalstress Adulthood
+Male 39 white 4787669 Non-mentalstress Adulthood
+Male 64 white 4307627 Non-mentalstress Old
+Female 42 white 4484773 Non-mentalstress "Middle age"
+Male 55 white 4716126 Non-mentalstress "Middle age"
+Female 59 white 4601913 Non-mentalstress "Middle age"
+Female 74 white 4537130 Non-mentalstress Old
+Female 30 white 4472667 Non-mentalstress Adulthood
+Male 88 white 4603288 Non-mentalstress Old
+Female 85 white 4310417 Mentaldisorder Old
+Male 74 white 4544955 Non-mentalstress Old
+Male 41 white 4686806 Mentaldisorder "Middle age"
+Female 72 white 4748811 N/A Old
+Female 56 white 4311631 Mentaldisorder "Middle age"
+Male 58 white 4507032 Non-mentalstress "Middle age"
+Male 72 white 4661732 Mentaldisorder Old
+Female 76 white 4563491 Non-mentalstress Old
+Male 52 white 4129954 Non-mentalstress "Middle age"
+Male 58 white 4131006 Non-mentalstress "Middle age"
+Male 62 white 4529916 Non-mentalstress Old
+Male 80 white 4418171 Non-mentalstress Old
+Female 49 White 4597584 Non-mentalstress "Middle age"
+Female 49 white 4085188 Non-mentalstress "Middle age"
+Female 69 white 4723941 Mentaldisorder Old
+Male 68 white 4064574 Mentaldisorder Old
+Female 37 white 4521467 Non-mentalstress Adulthood
+Female 33 white 4481866 Mentaldisorder Adulthood
+Male 70 white 4316150 Non-mentalstress Old
+Female 78 white 4136966 N/A Old
+Female 49 white 4039881 Mentaldisorder "Middle age"
+Male 27 white 4846850 Non-mentalstress Adulthood
+Female 68 white 4525064 Non-mentalstress Old
+Female 47 white 4072294 Non-mentalstress "Middle age"
+Male 70 white 4140046 Non-mentalstress Old
+Male 33 black 4466785 Mentaldisorder Adulthood
+Female 26 white 5204147 Mentaldisorder Adulthood
+Female 27 white 4086589 Non-mentalstress Adulthood
+Female 22 white 4524223 Non-mentalstress "Young Adult"
+Male 35 white 4146268 Non-mentalstress Adulthood
+Male 66 white 4321010 Non-mentalstress Old
+Male 66 white 4147019 Mentaldisorder Old
+Male 65 white 4484268 Mentaldisorder Old
+Male 51 white 4631672 Non-mentalstress "Middle age"
+Female 36 white 4221084 Mentaldisorder Adulthood
+Female 42 white 4564431 Mentaldisorder "Middle age"
+Female 40 white 4716418 N/A Old
+Male 29 white 4047903 Non-mentalstress Adulthood
+Female 80 white 4322236 N/A Old
+Male 59 white 4711449 Mentaldisorder "Middle age"
+Male 44 white 4556656 Non-mentalstress "Middle age"
+Male 55 white 4323128 Mentaldisorder "Middle age"
+Male 70 white 4541785 Non-mentalstress Old
+Male 64 white 4409258 Mentaldisorder Old
+Female 81 white 4323584 Non-mentalstress Old
+Male 56 white 4013350 Non-mentalstress "Middle age"
+Male 43 white 4621940 Non-mentalstress "Middle age"
+Male 60 white 4413698 Non-mentalstress Old
+Female 53 white 4411285 Mentaldisorder "Middle age"
+Male 51 white 4645603 Non-mentalstress "Middle age"
+Female 48 white 4069422 Non-mentalstress "Middle age"
+Female 23 white 4680513 Non-mentalstress "Young Adult"
+Female 53 white 4354820 Non-mentalstress "Middle age"
+Female 52 white 4604285 Non-mentalstress "Middle age"
+Male 24 white 4907201 Mentaldisorder "Young Adult"
+Female 47 "white " 4336010 Non-mentalstress "Middle age"
+Male 47 white 4643676 Non-mentalstress "Middle age"
+Female 49 white 4183172 Non-mentalstress "Middle age"
+Female 30 "white " 4652241 Non-mentalstress Adulthood
+Female 58 white 4150134 Non-mentalstress "Middle age"
+Male 84 white 4085268 Non-mentalstress Old
+Female 24 white 4499579 Non-mentalstress "Young Adult"
+Male 63 white 4663494 Non-mentalstress Old
+Female 40 white 4673055 Non-mentalstress Old
+Male 73 white 4938102 Non-mentalstress Old
+Female 69 white 4811174 Non-mentalstress Old
+Male 28 white 4595011 Non-mentalstress Adulthood
+Male 25 white 4467552 Non-mentalstress Old
+Female 68 white 4563024 Non-mentalstress Old
+Female 26 white 4433602 Non-mentalstress Adulthood
+Female 43 white 4658613 Mentaldisorder "Middle age"
+Female 30 white 4358354 Non-mentalstress Adulthood
+Female 73 white 4173158 Non-mentalstress Old
+Female 29 white 4626993 Mentaldisorder Adulthood
+Male 68 white 4334661 Non-mentalstress Old
+Female 26 white 4468027 Mentaldisorder Adulthood
+Male 39 white 4335293 Non-mentalstress Adulthood
+Male 65 white 4660689 Non-mentalstress Old
+Male 34 white 4889064 Mentaldisorder Adulthood
+Female 80 white 4176831 Non-mentalstress Old
+Male 62 white 4176903 Non-mentalstress Old
+Female 73 white 4336267 Non-mentalstress Old
+Female 34 white 4414059 Mentaldisorder Adulthood
+Female 83 white 4560630 Non-mentalstress Old
+Male 75 white 4413369 N/A Old
+Male 84 white 4179973 N/A Old
+Female 66 white 4180537 Mentaldisorder Old
+Male 64 white 4432818 Mentaldisorder Old
+Female 33 white 4939082 Mentaldisorder Adulthood
+Female 22 black 4986790 Non-mentalstress "Young Adult"
+Female 68 white 4339368 Mentaldisorder Old
+Female 67 white 4830984 Non-mentalstress Old
+Female 46 white 4038365 Non-mentalstress "Middle age"
+Female 32 white 4719629 Non-mentalstress Adulthood
+Female 71 white 4410153 Non-mentalstress Old
+Female 29 white 4926452 Non-mentalstress Adulthood
+Male 23 white 4653719 Non-mentalstress "Young Adult"
+Female 82 white 4190012 Non-mentalstress Old
+Male 28 white 4483971 Mentaldisorder Adulthood
+Male 44 white 4488153 Non-mentalstress "Middle age"
+Male 27 white 4959777 Non-mentalstress Adulthood
+Male 52 white 4035745 Non-mentalstress "Middle age"
+Female 70 white 4192583 Non-mentalstress Old
+Female 82 white 4619483 Non-mentalstress Old
+Male 48 white 4990588 Mentaldisorder "Middle age"
+Female 73 white 4024838 Non-mentalstress Old
+Male 87 white 4472380 Non-mentalstress Old
+Female 22 white 4528712 Non-mentalstress "Young Adult"
+Female 27 white 4689654 Non-mentalstress Adulthood
+Male 33 white 4799346 Mentaldisorder Adulthood
+Male 63 white 4199588 Non-mentalstress Old
+Female 56 white 4505634 Non-mentalstress "Middle age"
+Male 61 white 4516399 Non-mentalstress Old
+Female 42 white 4401080 Non-mentalstress "Middle age"
+Male 45 white 4427859 Non-mentalstress "Middle age"
+Female 31 white 4036270 Mentaldisorder Adulthood
+Female 57 white 4349761 Non-mentalstress "Middle age"
+Female 31 white 4944653 Non-mentalstress Adulthood
+Male 30 white 4969041 Non-mentalstress Adulthood
+Male 32 white 4458935 Non-mentalstress Adulthood
+Female 33 white 4521339 Mentaldisorder Adulthood
+Female 32 white 4539918 Mentaldisorder Adulthood
+Male 27 white 4080607 Non-mentalstress Adulthood
+Male 35 white 4210935 Non-mentalstress Adulthood
+Male 35 white 4211881 Mentaldisorder Adulthood
+Female 61 white 4212546 Non-mentalstress Old
+Female 26 white 4427202 Mentaldisorder Adulthood
+Female 78 white 4460602 Non-mentalstress Old
+Male 26 "african american" 4698289 Non-mentalstress Adulthood
+Male 32 white 4941879 Non-mentalstress Adulthood
+Female 48 white 4530581 Non-mentalstress "Middle age"
+Female 73 n/a 4219020 Non-mentalstress Old
+Female 45 white 4219896 Non-mentalstress "Middle age"
+Female 28 white 4079209 Non-mentalstress Adulthood
+Male 67 white 4674804 Non-mentalstress Old
+Male 31 white 4222870 Non-mentalstress Adulthood
+Male 27 white 4651872 Non-mentalstress Adulthood
+Female 63 white 4356454 Mentaldisorder Old
+Male 55 white 4085575 Mentaldisorder "Middle age"
+Male 48 white 4079505 Mentaldisorder "Middle age"
+Female 45 white 4427856 Non-mentalstress "Middle age"
+Female 65 white 4783894 Non-mentalstress Old
+Female 35 white 4179284 Non-mentalstress Adulthood
+Female 88 white 4729540 Non-mentalstress Old
+Male 26 white 5048740 Non-mentalstress Adulthood
+Female 29 white 4885723 Non-mentalstress Adulthood
+Female 41 white 4229291 Mentaldisorder "Middle age"
+Male 33 white 4229578 Non-mentalstress Adulthood
+Female 59 white 4409840 Non-mentalstress "Middle age"
+Female 57 white 4782198 Non-mentalstress "Middle age"
+Male 61 white 4769313 Non-mentalstress Old
+Male 60 white 4304095 Non-mentalstress Old
+Female 54 white 4445432 Non-mentalstress "Middle age"
+Female 33 white 4164597 Mentaldisorder Adulthood
+Female 45 white 4553837 Mentaldisorder "Middle age"
+Male 28 white 4952966 Non-mentalstress Adulthood
+Female 63 white 4725977 Mentaldisorder Old
+Female 85 white 4678102 Non-mentalstress Old
+Female 89 white 4306077 Non-mentalstress Old
+Female 51 white 4439420 Mentaldisorder "Middle age"
+Female 64 white 4114103 Mentaldisorder Old
+Male 39 white 4787669 Non-mentalstress Adulthood
+Female 66 white 4307777 Mentaldisorder Old
+Male 26 white 4527008 Mentaldisorder Adulthood
+Male 64 white 4064876 Mentaldisorder Old
+Male 78 white 4004486 Mentaldisorder Old
+Female 53 white 4579592 Mentaldisorder "Middle age"
+Female 33 white 5058008 Non-mentalstress Adulthood
+Male 74 white 4544955 Mentaldisorder Old
+Male 65 white 4572407 Non-mentalstress Old
+Male 27 asian 4899678 Non-mentalstress Adulthood
+Female 26 white 4443732 Mentaldisorder Adulthood
+Female 90 white 4539666 Non-mentalstress Old
+Female 48 white 4501646 Mentaldisorder "Middle age"
+Female 54 white 4532724 Mentaldisorder "Middle age"
+Female 73 white 4608445 Non-mentalstress Old
+Female 51 white 4559435 Mentaldisorder "Middle age"
+Female 56 white 4311631 Mentaldisorder "Middle age"
+Male 48 "african american" 4437222 Mentaldisorder "Middle age"
+Male 46 white 4125078 Mentaldisorder "Middle age"
+Female 21 white 4608751 Mentaldisorder "Young Adult"
+Female 86 white 5024328 Non-mentalstress Old
+Female 36 white 4128959 Non-mentalstress Adulthood
+Male 33 white 4818337 Non-mentalstress Adulthood
+Female 27 white 5041448 Mentaldisorder Adulthood
+Male 84 "african american" 4760916 Non-mentalstress Old
+Male 56 white 4131782 Non-mentalstress "Middle age"
+Female 70 white 4723941 Mentaldisorder Old
+Male 78 white 4443727 Non-mentalstress Old
+Male 49 white 4770973 Mentaldisorder "Middle age"
+Female 47 white 4210432 Non-mentalstress "Middle age"
+Male 84 white 4136420 Non-mentalstress Old
+Male 83 white 4452179 Mentaldisorder Old
+Female 60 white 4405268 Mentaldisorder Old
+Male 57 white 4137209 Non-mentalstress "Middle age"
+Female 49 white 4039881 Mentaldisorder "Middle age"
+Female 59 white 4862106 Mentaldisorder "Middle age"
+Male 33 "african american" 4466785 Mentaldisorder Adulthood
+Male 32 white 4142823 Mentaldisorder Adulthood
+Female 35 white 4852125 Mentaldisorder Adulthood
+Male 50 white 8018170 Non-mentalstress "Middle age"
+Female 73 white 4143145 Mentaldisorder Old
+Male 49 white 4416044 Non-mentalstress "Middle age"
+Female 23 white 4524223 N/A "Young Adult"
+Male 35 white 4146268 Mentaldisorder Adulthood
+Female 52 white 4463033 Non-mentalstress "Middle age"
+Female 38 white 4305904 Non-mentalstress Adulthood
+Female 33 white 4170094 Non-mentalstress Adulthood
+Female 28 white 4823207 Non-mentalstress Adulthood
+Male 60 white 4711449 Mentaldisorder Old
+Female 48 white 4085135 Mentaldisorder "Middle age"
+Female 35 white 4151037 Mentaldisorder Adulthood
+Female 55 white 4070169 Non-mentalstress "Middle age"
+Female 33 white 4830214 Non-mentalstress Adulthood
+Female 71 white 5002496 Non-mentalstress Old
+Male 39 white 4708448 Non-mentalstress Adulthood
+Male 41 white 4414738 Non-mentalstress "Middle age"
+Female 65 white 4153681 Mentaldisorder Old
+Male 60 white 4656918 Non-mentalstress Old
+Female 48 white 4069422 Mentaldisorder "Middle age"
+Female 31 white 4330753 Mentaldisorder Adulthood
+Female 58 white 4527867 Mentaldisorder "Middle age"
+Female 39 white 4768584 Non-mentalstress Adulthood
+Female 25 white 4501081 Mentaldisorder Old
+Male 30 white 4942504 Non-mentalstress Adulthood
+Male 95 white 4326732 Mentaldisorder Old
+Female 58 white 4150134 Non-mentalstress "Middle age"
+Female 66 "african american" 4051535 Non-mentalstress Old
+Female 32 white 4568445 Non-mentalstress Adulthood
+Male 62 white 4515908 Mentaldisorder Old
+Male 55 white 4820869 Mentaldisorder "Middle age"
+Female 46 white 4664661 Non-mentalstress "Middle age"
+Female 34 n/a 4472841 Mentaldisorder Adulthood
+Male 40 "african america " 4906693 Non-mentalstress Old
+Female 58 white 4512413 Mentaldisorder "Middle age"
+Male 52 white 4329362 Non-mentalstress "Middle age"
+Female 28 white 4329858 Non-mentalstress Adulthood
+Male 76 white 4166197 Non-mentalstress Old
+Female 68 white 4668381 Non-mentalstress Old
+Female 34 white 4780111 Mentaldisorder Adulthood
+Male 62 white 4913378 Mentaldisorder Old
+Female 70 white 4331758 Mentaldisorder Old
+Male 80 white 4810021 Mentaldisorder Old
+Male 57 "african american" 4462308 Mentaldisorder "Middle age"
+Female 48 white 4074531 Mentaldisorder "Middle age"
+Female 63 white 4630201 Mentaldisorder Old
+Female 74 white 4333431 Mentaldisorder Old
+Female 44 white 4633772 Non-mentalstress "Middle age"
+Female 68 white 4170016 Non-mentalstress Old
+Male 38 white 4478070 N/A Adulthood
+Female 78 white 4587611 Mentaldisorder Old
+Male 26 white 4715793 Non-mentalstress Adulthood
+Female 48 white 4521325 Mentaldisorder "Middle age"
+Female 26 white 4468027 Mentaldisorder Adulthood
+Male 35 white 4889064 Non-mentalstress Adulthood
+Female 64 white 4954068 Non-mentalstress Old
+Male 44 white 4432560 Non-mentalstress "Middle age"
+Male 63 white 4605457 Non-mentalstress Old
+Female 34 white 4414059 Mentaldisorder Adulthood
+Female 23 white 8010846 Mentaldisorder "Young Adult"
+Female 67 white 4116875 Non-mentalstress Old
+Male 49 white 5014340 Non-mentalstress "Middle age"
+Male 53 white 4552447 Mentaldisorder "Middle age"
+Female 26 n/a 4892140 Non-mentalstress Adulthood
+Male 60 white 4514347 Mentaldisorder Old
+Male 52 white 4184350 Mentaldisorder "Middle age"
+Female 76 african 4184810 Mentaldisorder Old
+Male 33 n/a 4579632 Non-mentalstress Adulthood
+Male 66 white 4445293 Mentaldisorder Old
+Male 57 white 4452429 Non-mentalstress "Middle age"
+Female 44 white 30873 Mentaldisorder "Middle age"
+Male 35 white 4659273 Non-mentalstress Adulthood
+Female 52 white 4400142 Mentaldisorder "Middle age"
+Female 54 white 4900397 Mentaldisorder "Middle age"
+Female 31 white 4189113 Non-mentalstress Adulthood
+Male 59 white 4499081 Mentaldisorder "Middle age"
+Female 27 white 4569876 Non-mentalstress Adulthood
+Female 70 white 4192583 Mentaldisorder Old
+Male 53 white 4583571 Non-mentalstress "Middle age"
+Female 60 white 4720456 Non-mentalstress Old
+Female 55 white 4737489 Mentaldisorder "Middle age"
+Female 90 white 4343541 Non-mentalstress Old
+Female 28 white 4705145 Non-mentalstress Adulthood
+Male 16 white 4712276 Non-mentalstress Adolescence
+Male 44 white 4689276 Non-mentalstress "Middle age"
+Female 76 n/a 4197451 Mentaldisorder Old
+Male 34 white 4197597 Mentaldisorder Adulthood
+Male 34 white 4799346 Non-mentalstress Adulthood
+Male 56 white 4360417 Mentaldisorder "Middle age"
+Female 68 white 4346576 Non-mentalstress Old
+Male 39 white 4194509 Non-mentalstress Adulthood
+Male 53 white 4959826 Mentaldisorder "Middle age"
+Female 55 white 4201957 Non-mentalstress "Middle age"
+Male 59 white 4516399 Non-mentalstress "Middle age"
+Female 40 white 4425644 Non-mentalstress Old
+Female 68 white 4204431 Mentaldisorder Old
+Male 35 white 4206030 Mentaldisorder Adulthood
+Male 39 white 4529151 Non-mentalstress Adulthood
+Male 51 white 4350153 Mentaldisorder "Middle age"
+Male 58 white 4405229 Non-mentalstress "Middle age"
+Female 75 white 4350813 Non-mentalstress Old
+Male 35 white 4211881 Mentaldisorder Adulthood
+Male 58 white 4486562 Non-mentalstress "Middle age"
+Male 27 white 4532996 Mentaldisorder Adulthood
+Male 32 white 4662271 Mentaldisorder Adulthood
+Male 26 african 4698289 Non-mentalstress Adulthood
+Male 46 white 4940297 Mentaldisorder "Middle age"
+Female 53 white 4696087 Non-mentalstress "Middle age"
+Male 31 white 4218451 Non-mentalstress Adulthood
+Female 25 white 4477771 Mentaldisorder Old
+Male 52 white 4354529 Mentaldisorder "Middle age"
+Female 31 white 4740278 Non-mentalstress Adulthood
+Female 51 white 4347181 Mentaldisorder "Middle age"
+Female 59 white 4047849 Non-mentalstress "Middle age"
+Female 28 white 4079209 Non-mentalstress Adulthood
+Female 24 white 4494580 Non-mentalstress "Young Adult"
+Male 26 white 5085134 Mentaldisorder Adulthood
+Male 35 white 5091883 Non-mentalstress Adulthood
+Female 81 white 4627311 Mentaldisorder Old
+Male 26 white 4481034 Non-mentalstress Adulthood
+Male 36 white 4905704 Non-mentalstress Adulthood
+Female 75 white 4581745 Non-mentalstress Old
+Male 34 white 5009513 Non-mentalstress Adulthood
+Female 54 white 4027992 Mentaldisorder "Middle age"
+Female 66 white 4358422 Non-mentalstress Old
+Female 61 white 4228772 Mentaldisorder Old
+Female 41 white 4639659 Non-mentalstress "Middle age"
+Female 79 white 37225 Non-mentalstress Old
+Male 77 white 4590685 Non-mentalstress Old
+Male 61 white 4962232 Non-mentalstress Old
+Male 44 white 4493293 Non-mentalstress "Middle age"
+Male 23 white 4860623 Non-mentalstress "Young Adult"
+Female 30 white 4303410 Mentaldisorder Adulthood
+Female 56 white 4180702 Non-mentalstress "Middle age"
+Female 35 white 4588287 Mentaldisorder Adulthood
+Male 79 white 4110597 N/A Old
+Female 51 white 4110639 Non-mentalstress "Middle age"
+Female 87 white 4416127 Non-mentalstress Old
+Male 69 white 4628911 Non-mentalstress Old
+Male 52 white 5203610 Mentaldisorder "Middle age"
+Female 37 white 4545390 Non-mentalstress Adulthood
+Female 50 other 4668550 Mentaldisorder "Middle age"
+Male 31 white 4307882 Non-mentalstress Adulthood
+Female 32 white 4116630 Mentaldisorder Adulthood
+Female 65 white 4078811 Non-mentalstress Old
+Male 29 white 4117337 Non-mentalstress Adulthood
+Female 79 white 4119201 Mentaldisorder Old
+Female 36 white 4856280 N/A Adulthood
+Female 45 white 4642904 Mentaldisorder "Middle age"
+Female 35 white 4653181 Non-mentalstress Adulthood
+Male 74 white 4544955 Mentaldisorder Old
+Male 65 white 4572407 Non-mentalstress Old
+Male 41 white 4686806 Mentaldisorder "Middle age"
+Male 57 white 4701469 Mentaldisorder "Middle age"
+Female 69 white 4070677 Mentaldisorder Old
+Male 67 white 4069200 Non-mentalstress Old
+Female 35 white 4718265 Mentaldisorder Adulthood
+Female 58 white 4044340 Mentaldisorder "Middle age"
+Male 47 white 4480096 Non-mentalstress "Middle age"
+Male 40 white 4312510 Non-mentalstress Old
+Female 38 white 4631133 Non-mentalstress Adulthood
+Female 66 white 4797186 Non-mentalstress Old
+Female 82 white 4435305 Non-mentalstress Old
+Female 73 white 4480067 Mentaldisorder Old
+Female 98 white 4128777 N/A Old
+Female 39 white 5056056 Non-mentalstress Adulthood
+Female 52 white 4589746 Non-mentalstress "Middle age"
+Female 58 white 4130901 Mentaldisorder "Middle age"
+Female 55 white 4121157 Non-mentalstress "Middle age"
+Male 46 white 4423757 Non-mentalstress "Middle age"
+Female 83 white 4523069 Non-mentalstress Old
+Male 28 white 4846850 N/A Adulthood
+Female 58 white 4056368 Mentaldisorder "Middle age"
+Female 37 white 4600620 Mentaldisorder Adulthood
+Female 38 white 4318011 Non-mentalstress Adulthood
+Male 34 black/african 4466785 N/A Adulthood
+Female 58 white 4422851 Mentaldisorder "Middle age"
+Female 28 white 4086589 Non-mentalstress Adulthood
+Female 71 white 4027215 Non-mentalstress Old
+Male 84 white 4588933 Non-mentalstress Old
+Female 34 white 4327193 Non-mentalstress Adulthood
+Female 46 white 4147698 Non-mentalstress "Middle age"
+Female 37 white 4633823 Mentaldisorder Adulthood
+Female 51 white 4149639 Mentaldisorder "Middle age"
+Female 25 white 37442 Non-mentalstress Old
+Female 44 white 4323255 Mentaldisorder "Middle age"
+Male 40 white 4708448 Non-mentalstress Old
+Female 48 white 4069422 Mentaldisorder "Middle age"
+Female 40 white 4768584 N/A Old
+Female 47 white 4336010 Mentaldisorder "Middle age"
+Male 62 white 4930849 Non-mentalstress Old
+Female 48 white 4523666 Mentaldisorder "Middle age"
+Female 56 white 4048340 Mentaldisorder "Middle age"
+Male 44 white 4756033 Non-mentalstress "Middle age"
+Male 66 white 4159409 N/A Old
+Male 39 white 4161736 Mentaldisorder Adulthood
+Female 41 white 4520397 Mentaldisorder "Middle age"
+Female 46 white 4328671 Non-mentalstress "Middle age"
+Female 56 white 4164763 Non-mentalstress "Middle age"
+Male 29 "all other races" 4927503 Non-mentalstress Adulthood
+Female 46 white 4104313 Non-mentalstress "Middle age"
+Female 47 white 4329958 Non-mentalstress "Middle age"
+Female 73 white 4039858 Non-mentalstress Old
+Female 65 white 4714226 Non-mentalstress Old
+Male 40 white 4456310 Non-mentalstress Old
+Male 49 white 4671949 N/A "Middle age"
+Female 66 white 4551333 Non-mentalstress Old
+Female 60 white 4539135 Mentaldisorder Old
+Male 26 white 4467552 Mentaldisorder Adulthood
+Male 88 white 4083044 Non-mentalstress Old
+Male 24 white 4515850 Non-mentalstress "Young Adult"
+Female 61 white 4483378 Mentaldisorder Old
+Male 33 white 4038146 Non-mentalstress Adulthood
+Female 30 white 4626993 Mentaldisorder Adulthood
+Male 35 white 4889064 N/A Adulthood
+Female 80 white 4176831 Non-mentalstress Old
+Female 35 white 4414059 Mentaldisorder Adulthood
+Male 54 white 4782975 Non-mentalstress "Middle age"
+Male 41 white 4909303 Mentaldisorder "Middle age"
+Male 75 white 4078010 Non-mentalstress Old
+Male 39 white 4491112 Non-mentalstress Adulthood
+Male 64 white 4570664 Non-mentalstress Old
+Male 21 white 4578364 N/A "Young Adult"
+Female 55 white 4844921 Mentaldisorder "Middle age"
+Male 34 white 4579632 Non-mentalstress Adulthood
+Male 65 white 4494111 Non-mentalstress Old
+Female 36 white 4928199 Non-mentalstress Adulthood
+Male 66 white 4661614 Non-mentalstress Old
+Female 86 white 4190211 Non-mentalstress Old
+Female 34 white 4191085 Non-mentalstress Adulthood
+Female 37 white 4739617 Mentaldisorder Adulthood
+Female 61 white 4464638 Non-mentalstress Old
+Female 47 black/african 4587542 Non-mentalstress "Middle age"
+Female 30 white 4046575 Non-mentalstress Adulthood
+Female 31 white 4187342 Non-mentalstress Adulthood
+Female 47 white 4195701 Non-mentalstress "Middle age"
+Female 41 white 4647615 Non-mentalstress "Middle age"
+Male 59 white 4202443 Non-mentalstress "Middle age"
+Male 60 white 4516399 Non-mentalstress Old
+Male 66 white 5078242 Mentaldisorder Old
+Female 43 white 4401080 Non-mentalstress "Middle age"
+Female 40 white 4425644 Non-mentalstress Old
+Male 18 "all other races" 4893326 Non-mentalstress Old
+Male 25 white 4648113 Non-mentalstress Old
+Female 79 white 4551525 Non-mentalstress Old
+Male 48 white 4598144 Non-mentalstress "Middle age"
+Male 36 white 4211881 Mentaldisorder Adulthood
+Female 72 white 4403170 Non-mentalstress Old
+Female 59 white 4216352 Non-mentalstress "Middle age"
+Male 27 black/african 4698289 Non-mentalstress Adulthood
+Male 58 white 4950743 Non-mentalstress "Middle age"
+Female 53 white 4696087 Non-mentalstress "Middle age"
+Female 86 white 4218504 Non-mentalstress Old
+Female 28 white 4079209 Non-mentalstress Adulthood
+Male 71 white 4477720 Mentaldisorder Old
+Female 31 white 4484543 Non-mentalstress Adulthood
+Male 35 white 5091883 Non-mentalstress Adulthood
+Female 81 white 4627311 Mentaldisorder Old
+Male 33 white 4466018 Non-mentalstress Adulthood
+Male 55 white 4085575 Non-mentalstress "Middle age"
+Female 48 white 4542663 Non-mentalstress "Middle age"
+Female 65 white 4783894 Non-mentalstress Old
+Male 51 white 4640300 Non-mentalstress "Middle age"
+Female 30 white 4945752 Mentaldisorder Adulthood
+Female 54 white 4027992 Mentaldisorder "Middle age"
+Female 27 white 4756941 Non-mentalstress Adulthood
+Male 63 white 4478693 Non-mentalstress Old
+Female 25 white 4483469 Non-mentalstress Old
+Male 64 white 4523568 Non-mentalstress Old
+Female 53 white 5073718 Non-mentalstress "Middle age"
+Female 64 white 4725977 Non-mentalstress Old
+Female 51 white 4915654 Non-mentalstress "Middle age"
+Female 31 white 4062569 Non-mentalstress Adulthood
+Male 21 white 5022353 Non-mentalstress "Young Adult"
+Male 82 white 4311732 Non-mentalstress Old
+Female 56 white 4127419 Mentaldisorder "Middle age"
+Male 56 white 4433298 Non-mentalstress "Middle age"
+Male 29 black/african 4545945 Non-mentalstress Adulthood
+Male 30 white 4667837 Non-mentalstress Adulthood
+Male 60 white 4487717 Non-mentalstress Old
+Female 37 white 4842639 Mentaldisorder Adulthood
+Female 82 white 4315479 Mentaldisorder Old
+Female 30 white 4329798 Mentaldisorder Adulthood
+Male 57 white 4656425 Non-mentalstress "Middle age"
+Male 35 black/african 4466785 Non-mentalstress Adulthood
+Female 29 white 5207824 Non-mentalstress Adulthood
+Male 23 white 4823424 Non-mentalstress "Young Adult"
+Male 68 white 4887394 Non-mentalstress Old
+Male 58 white 4431128 Non-mentalstress "Middle age"
+Male 25 "african america " 8016953 Non-mentalstress Old
+Male 68 white 4324255 Non-mentalstress Old
+Male 85 white 4693143 Non-mentalstress Old
+Female 25 white 4500869 Non-mentalstress Old
+Male 30 "All other races" 4927503 Non-mentalstress Adulthood
+Male 77 white 4166197 Non-mentalstress Old
+Female 50 white 4521325 Mentaldisorder "Middle age"
+Female 47 white 4421357 Non-mentalstress "Middle age"
+Female 28 white 4468027 Mentaldisorder Adulthood
+Male 36 white 4889064 Non-mentalstress Adulthood
+Male 26 white 4477722 Non-mentalstress Adulthood
+Female 50 white 4510293 Non-mentalstress "Middle age"
+Female 75 white 4553774 Non-mentalstress Old
+Male 76 white 4078010 Non-mentalstress Old
+Female 55 white 4043678 Mentaldisorder "Middle age"
+Female 58 white 4312431 Non-mentalstress "Middle age"
+Female 72 white 4199809 Non-mentalstress Old
+Female 61 white 4209436 Non-mentalstress Old
+Male 28 white 4656988 Non-mentalstress Adulthood
+Female 66 white 4776559 Non-mentalstress Old
+Male 35 white 4641926 Non-mentalstress Adulthood
+Male 37 white 4354425 Non-mentalstress Adulthood
+Female 52 white 4963059 Mentaldisorder "Middle age"
+Male 67 white 4720962 Non-mentalstress Old
+Female 24 white 61235 Non-mentalstress "Young Adult"
+Male 71 white 4523131 Non-mentalstress Old
+Female 28 white 4436320 Mentaldisorder Adulthood
+Female 35 white 4855346 Mentaldisorder Adulthood
+Female 53 white 4529584 Non-mentalstress "Middle age"
+Male 33 white 8010008 Mentaldisorder Adulthood
+Female 49 white 4945888 Mentaldisorder "Middle age"
+Female 52 white 4967177 Mentaldisorder "Middle age"
+Female 51 white 4698310 Non-mentalstress "Middle age"
+Male 37 white 32642 Non-mentalstress Adulthood
+Male 16 white 4738277 Non-mentalstress Adolescence
+Female 17 white 4729998 Non-mentalstress Adolescence
+Female 19 white 4962129 Non-mentalstress "Young Adult"
+Male 26 white 4479935 Non-mentalstress Adulthood
+Male 22 white 4572317 Non-mentalstress "Young Adult"
+Male 26 white 4484626 Non-mentalstress Adulthood
+Male 27 white 4652157 Non-mentalstress Adulthood
+Female 71 white 4180426 Non-mentalstress Old
+Male 64 white 4360163 Non-mentalstress Old
+Female 27 white 4543509 Non-mentalstress Adulthood
+Female 31 white 4064238 Non-mentalstress Adulthood
+Female 26 white 5055494 Non-mentalstress Adulthood
+Male 10 white 4979341 Non-mentalstress Children
+Male 73 white 4646651 Non-mentalstress Old
+Female 29 white 5042096 Mentaldisorder Adulthood
+Female 37 white 4699163 Mentaldisorder Adulthood
+Male 63 white 4586133 Non-mentalstress Old
+Female 37 white 4111043 Non-mentalstress Adulthood
+Male 29 white 5060700 Mentaldisorder Adulthood
+Male 67 white 4690065 Non-mentalstress Old
+Female 37 white 4824957 Mentaldisorder Adulthood
+Female 62 white 4129812 Non-mentalstress Old
+Female 69 white 4145569 Mentaldisorder Old
+Female 86 white 4305029 Non-mentalstress Old
+Female 62 white 4577407 Non-mentalstress Old
